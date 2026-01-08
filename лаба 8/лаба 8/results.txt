@@ -1,0 +1,23 @@
+
+	--------- Informations ---------
+
+	--------- Informations ---------
+Student1: Surname: loyko, Initials: ff, Birth Year: 2000, Group Number: 1, Physics: 2, Math: 3, CS: 4, Chemistry: 5, Average Grade: 3.50
+Student2: Surname: fgfg, Initials: fhfd, Birth Year: 2000, Group Number: 2, Physics: 3, Math: 4, CS: 5, Chemistry: 6, Average Grade: 4.50
+Student3: Surname: hh, Initials: fdgf, Birth Year: 2000, Group Number: 3, Physics: 4, Math: 5, CS: 6, Chemistry: 7, Average Grade: 5.50
+Student4: Surname: d, Initials: htdf, Birth Year: 2001, Group Number: 1, Physics: 9, Math: 9, CS: 9, Chemistry: 8, Average Grade: 8.75
+No students found in group 5
+Overall average grade for group 1: 6.12
+Students with average grade above overall average:
+Student1: Surname: d, Initials: htdf, Birth Year: 2001, Group Number: 1, Physics: 9, Math: 9, CS: 9, Chemistry: 8, Average Grade: 8.75
+Overall average grade for group 2: 4.50
+Only one student in the group.
+
+	--------- Informations ---------
+Student1: Surname: loyko, Initials: ff, Birth Year: 2000, Group Number: 1, Physics: 10, Math: 10, CS: 10, Chemistry: 10, Average Grade: 10.00
+Student2: Surname: fgfg, Initials: fhfd, Birth Year: 2000, Group Number: 2, Physics: 3, Math: 4, CS: 5, Chemistry: 6, Average Grade: 4.50
+Student3: Surname: hh, Initials: fdgf, Birth Year: 2000, Group Number: 3, Physics: 4, Math: 5, CS: 6, Chemistry: 7, Average Grade: 5.50
+Student4: Surname: d, Initials: htdf, Birth Year: 2001, Group Number: 1, Physics: 9, Math: 9, CS: 9, Chemistry: 8, Average Grade: 8.75
+Overall average grade for group 1: 9.38
+Students with average grade above overall average:
+Student1: Surname: loyko, Initials: ff, Birth Year: 2000, Group Number: 1, Physics: 10, Math: 10, CS: 10, Chemistry: 10, Average Grade: 10.00
